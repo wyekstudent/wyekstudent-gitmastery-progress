@@ -189,5 +189,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786950673.283182,
+    "completed_at": 1786950677.366819,
+    "comments": [
+      "\"v1.0\" message must be exactly \"first full duty roster\"."
+    ],
+    "status": "Incomplete"
   }
 ]
