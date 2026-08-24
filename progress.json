@@ -333,5 +333,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787561386.859298,
+    "completed_at": 1787561388.536839,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
